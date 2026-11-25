@@ -1,4 +1,6 @@
 # Global Health System Performance Analysis (2018–2024)
+- `Global_Health_System_Performance.pbix` – Interactive Power BI project file.
+- `UK_AND_GLOBAL_HEALTH_PERFOMANCE_ANALYSIS.pdf` – Final project report.
 
 ## Project Overview
 This project analyses global healthcare system performance from 2018 to 2024 using Power BI. It explores healthcare spending, waiting times, intensive care performance, workforce indicators and disease trends to identify patterns and compare healthcare performance across countries and regions.
