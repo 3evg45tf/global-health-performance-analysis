@@ -45,6 +45,20 @@ This project analyses global healthcare system performance from 2018 to 2024 usi
 ## Key Learning Outcomes
 This project strengthened my ability to work with structured datasets, develop data models, create analytical measures and communicate insights through interactive dashboards.
 
+## Dashboard Previews
+
+### 1. Executive Overview
+![Executive Overview](Executive_Overview.png)
+
+### 2. Pandemic & Elective Recovery
+![Pandemic and Elective Recovery](Pandemic_Elective_Recovery.png)
+
+### 3. Healthcare Spending & Workforce
+![Healthcare Spending and Workforce](Healthcare_Spending_Workforce.png)
+
+### 4. Disease Trends
+![Disease Trends](Disease_Trends.png)
+
 ## Author
 Abazie Olanma
 
