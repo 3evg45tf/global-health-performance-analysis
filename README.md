@@ -59,6 +59,21 @@ This project strengthened my ability to work with structured datasets, develop d
 ### 4. Disease Trends
 ![Disease Trends](DISEASE_TREND.png)
 
+## Project Objectives
+
+The objective of this project was to analyse global health system performance across 32 countries from 2018 to 2024 using Power BI.
+
+The analysis focused on:
+
+- Evaluating healthcare system performance across different countries.
+- Comparing healthcare spending and workforce capacity.
+- Examining waiting times and intensive care unit (ICU) occupancy.
+- Analysing workforce shortages and burnout trends.
+- Identifying cardiovascular disease trends across WHO regions.
+- Comparing the UK's healthcare performance with EU averages.
+
+The project aimed to transform healthcare data into meaningful insights that support evidence-based decision-making.
+
 ## Author
 Abazie Olanma
 
