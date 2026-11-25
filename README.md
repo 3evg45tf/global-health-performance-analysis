@@ -48,16 +48,16 @@ This project strengthened my ability to work with structured datasets, develop d
 ## Dashboard Previews
 
 ### 1. Executive Overview
-![Executive Overview](Executive_Overview.png)
+![Executive Overview](EXECUTIVE_OVERVIEW.png)
 
 ### 2. Pandemic & Elective Recovery
-![Pandemic and Elective Recovery](Pandemic_Elective_Recovery.png)
+![Pandemic and Elective Recovery](PANDEMIC_AND_ELECTIVE_RECOVERY.png)
 
 ### 3. Healthcare Spending & Workforce
-![Healthcare Spending and Workforce](Healthcare_Spending_Workforce.png)
+![Healthcare Spending and Workforce](HEALTHCARE_SPENDING_AND_WORKFORCE.png)
 
 ### 4. Disease Trends
-![Disease Trends](Disease_Trends.png)
+![Disease Trends](DISEASE_TREND.png)
 
 ## Author
 Abazie Olanma
